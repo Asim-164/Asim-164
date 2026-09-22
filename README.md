@@ -1,5 +1,10 @@
-## Hi there 👋
+#Hi there,this is mohamed asim
 
+##about me
+- master of computer application
+- learning python and java
+- currently learning web development
+- Interested in Software Development 
 <!--
 **Asim-164/Asim-164** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
